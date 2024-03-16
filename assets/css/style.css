@@ -1,0 +1,103 @@
+body , body *{
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-family: "Raleway", sans-serif;
+
+
+}
+#hero-section{
+
+    background-image: url("../img/bg-hero.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 830px ;
+    padding-top: 350px ;
+    margin-top: -200px ;
+}
+
+h1{
+    
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h1, p {
+    text-align: right;
+    padding-right: 178px;
+    
+}
+
+#button{
+    text-align: right ;
+    padding-top: 30px;
+    padding-right: 178px;
+    
+}
+h1{
+    padding-top: 66px;
+}
+
+#container{
+    height: 533px;
+    padding-top: 66px  
+    
+}
+
+h2{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: auto;
+    padding-top: 66px;
+}
+
+.parrafo2{
+    text-align: center;
+    padding-left: 170px;
+}
+
+/*.............*/
+
+.icons {
+    text-align: center;
+    font-size: 16px;
+    font-weight: regular;
+    padding: 18px;
+    
+   
+}
+
+i {
+    font-size: 40px;
+    height: 60px;
+}
+
+h3{
+    font: normal normal bold 20px/24px Raleway;
+    padding-bottom: 19px;
+}
+
+#parrafo3{
+  
+    font: normal normal normal 16px/25px Raleway;
+    text-align: center;
+}
+
+.container-fluid{
+    background-color: #17a2b8;
+}
+
+h5{
+    font-style: unset;
+    font-size: 26px;
+    text-align: left;
+}
+
+
+footer{
+    width: 100%;
+    height: 74px;
+    background-color: black;
+}
